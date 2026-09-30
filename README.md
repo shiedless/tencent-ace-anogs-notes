@@ -256,5 +256,12 @@ because that's the useful and defensible part.
 
 ---
 
+<p align="center">
+  <sub><b>part 7 of 7</b> in the <a href="https://github.com/shiedless/ios-ue4-re">ios-ue4-re</a> series</sub><br>
+  <sub>← <a href="https://github.com/shiedless/ue4-ios-processevent-notes">ue4-ios-processevent-notes</a> · <a href="https://github.com/shiedless/ios-ue4-re">index</a></sub>
+</p>
+
+---
+
 <sub>For research and defensive purposes. No keys, no offsets that map to a shipping
 title, no working bypass — by design.</sub>
